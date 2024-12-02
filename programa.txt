@@ -4,5 +4,6 @@ linha 1
 linha 2 dev2
 linha 3 dev2
 linha 4
+linha 6
 
 linha errada 2
