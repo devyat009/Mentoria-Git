@@ -1,7 +1,11 @@
 Este arquivo representa um código sendo implementado.
 
 linha 1
-lina 3 dev1
+linha 2 dev2
+linha 3 dev2
 linha 4
 linha 5
+linha 6
+
 linha errada
+linha errada 2
